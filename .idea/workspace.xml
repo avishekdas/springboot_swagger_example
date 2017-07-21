@@ -529,7 +529,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
-      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductServiceImplMockTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.PropertyServiceImplMockTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -555,7 +555,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
-      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductServiceImplSpyTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.PropertyServiceImplSpyTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
