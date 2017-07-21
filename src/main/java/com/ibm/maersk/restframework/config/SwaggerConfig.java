@@ -18,17 +18,19 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("com.ibm.maersk.restframework.controllers"))
-                .paths(regex("/product.*"))
+//                .paths(regex("/product.*"))
+                .paths(regex("/property.*"))
                 .build()
                 .apiInfo(metaData());
     }
+    
     private ApiInfo metaData() {
         ApiInfo apiInfo = new ApiInfo(
                 "GEMS API",
                 "GEMS REST API",
                 "1.0",
                 "Terms of service",
-                new Contact("IBM", "https://springframework.guru/about/", "avisdas9@in.ibm.com"),
+                new Contact("IBM", "https://www.ibm.com", "avisdas9@in.ibm.com"),
                "Apache License Version 2.0",
                 "https://www.apache.org/licenses/LICENSE-2.0");
         return apiInfo;
