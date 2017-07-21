@@ -446,17 +446,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="guru.springframework.services" />
+      <recent name="com.ibm.maersk.restframework.services" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="guru.springframework.services" />
-      <recent name="guru.springframework.repositories" />
-      <recent name="guru.springframework.config" />
-      <recent name="guru.springframework.configuration" />
-      <recent name="guru.springframework.services.security" />
+      <recent name="com.ibm.maersk.restframework.services" />
+      <recent name="com.ibm.maersk.restframework.repositories" />
+      <recent name="com.ibm.maersk.restframework.config" />
+      <recent name="com.ibm.maersk.restframework.configuration" />
+      <recent name="com.ibm.maersk.restframework.services.security" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\springguru2016\springbootwebapp\src\main\java\guru\springframework\services" />
@@ -469,15 +469,15 @@
     <configuration default="false" name="ProductImplMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.services.*" />
+          <option name="PATTERN" value="com.ibm.maersk.restframework.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="spring-boot-web" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="guru.springframework.services" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.services.ProductImplMockTest" />
+      <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductImplMockTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -495,15 +495,15 @@
     <configuration default="false" name="ProductImplSpyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.services.*" />
+          <option name="PATTERN" value="com.ibm.maersk.restframework.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="spring-boot-web" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="guru.springframework.services" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.services.ProductImplSpyTest" />
+      <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductImplSpyTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -521,15 +521,15 @@
     <configuration default="false" name="ProductServiceImplMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.services.*" />
+          <option name="PATTERN" value="com.ibm.maersk.restframework.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="spring-boot-web" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="guru.springframework.services" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.services.ProductServiceImplMockTest" />
+      <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductServiceImplMockTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -547,15 +547,15 @@
     <configuration default="false" name="ProductServiceImplSpyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.services.*" />
+          <option name="PATTERN" value="com.ibm.maersk.restframework.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="spring-boot-web" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="guru.springframework.services" />
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.services.ProductServiceImplSpyTest" />
+      <option name="PACKAGE_NAME" value="com.ibm.maersk.restframework.services" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.services.ProductServiceImplSpyTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -573,11 +573,11 @@
     <configuration default="false" name="SpringBootWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="guru.springframework.*" />
+          <option name="PATTERN" value="com.ibm.maersk.restframework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="guru.springframework.SpringBootWebApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.ibm.maersk.restframework.SpringBootWebApplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
